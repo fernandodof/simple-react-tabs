@@ -1,3 +1,8 @@
+# How to build a tabs component with react and typescript
+
+The repository is complimentary of the medium article 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
