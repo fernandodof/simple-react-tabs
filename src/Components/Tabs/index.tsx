@@ -1,10 +1,10 @@
 import React, { ReactElement, useState } from 'react';
 
 import styles from './tabs.module.css';
-import TabTitle from './TabTitle';
+import TabTitle, { Props as TabTitleProps } from './TabTitle';
 
 type Props = {
-  children: ReactElement[];
+  children: ReactElement<TabTitleProps>[];
   preSelectedTabIndex?: number;
 };
 

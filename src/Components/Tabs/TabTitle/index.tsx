@@ -2,7 +2,7 @@ import React, { useCallback } from 'react';
 
 import styles from './tabTitle.module.css';
 
-type Props = {
+export type Props = {
   title: string;
   index: number;
   setSelectedTab: (index: number) => void;
