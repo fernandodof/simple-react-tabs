@@ -1,6 +1,6 @@
 # How to build a tabs component with react and typescript
 
-The repository is complimentary of the medium article 
+The repository is complimentary of the [medium article](https://medium.com/@fernandodof/building-a-tabs-component-with-react-596c685a9934)
 
 
 # Getting Started with Create React App
